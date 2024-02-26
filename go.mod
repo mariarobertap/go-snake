@@ -1,4 +1,4 @@
-module example
+module go-snake
 
 go 1.18
 
